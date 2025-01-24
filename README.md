@@ -1,2 +1,2 @@
 # FlamesTracker-
-Wildlife detection using Satellite Images 
+Wildlife detection using Satellite Images
